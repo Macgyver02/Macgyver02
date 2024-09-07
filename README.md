@@ -67,7 +67,7 @@ I'm a passionate software engineer who loves exploring and working with a wide r
 
 ## 🔧 Projects & Open Source
 
-- **[Project Name](https://github.com/Macgyver02/translator-app)** - A brief description of your most recent or notable project. Includes cool features, screenshots, and how to use it.
+- **[Translator App]([https://github.com/Macgyver02/translator-app])** - A brief description of your most recent or notable project. Includes cool features, screenshots, and how to use it.
 - **[Open Source Contribution](https://github.com/opensourceproject/translator-app)** - A significant contribution you’ve made to an open-source project. 
 
 ## 📈 GitHub Stats

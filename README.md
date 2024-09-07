@@ -30,15 +30,24 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Macgyver02&theme=onedark)](https://github.com/Macgyver02)<br>
 
+## Contributor Status 🚀
 
-## 🔝 Top Contributed Repository 🏆
+[![Macgyver02's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Macgyver02&theme=github)](https://github.com/Macgyver02)
 
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=Macgyver02&repo=top-repo&theme=radical)](https://github.com/Macgyver02/top-repo)<br>
 
+
+## 🔝 Top Contributed Repository 🏆 🚀
+
+### 1. [Next Netlify](https://github.com/Macgyver02/next-netlify)
+- **Description:** A Next.js application deployed on Netlify, showcasing modern web development practices.
+- **Contributions:** [Repository Contributions](https://github.com/Macgyver02/next-netlify/graphs/contributors)
 
 ## Coding Activity 📈
 
-![WakaTime](https://waka-time.com/badge/github/Macgyver02)<br>
+![WakaTime](https://wakatime.com/badge/github/Macgyver02)
+
+**Currently working and open to new opportunities! Feel free to reach out if you’re looking for a passionate developer with active coding experience.**
+<br>
 
 
 ### ✍️ </Random Dev Quote>
@@ -49,10 +58,11 @@ _"The best way to predict the future is to invent it. But, remember that softwar
 
 ## 😂 Dev Meme
 
-![Dev Meme](https://i.imgur.com/4vYhmCh.png)
-
 *“Why do programmers prefer dark mode? Because light attracts bugs!”*
 
+![Dev Meme](https://i.imgur.com/6d18V6b.jpg)
+
+"I’m not a magician, but I can see why you might think so: I make bugs disappear."
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Macgyver02&icon=0&color=6)](https://visitcount.itsvg.in)

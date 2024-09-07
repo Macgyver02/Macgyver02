@@ -44,9 +44,9 @@
 
 ## Coding Activity 📈
 
-![WakaTime](https://wakatime.com/badge/github/Macgyver02)
+![WakaTime](https://www.google.com/search?q=currently+working+and+ready+for+new+jobs+picture&sca_esv=07f2b446eda3f237&sca_upv=1&udm=2&biw=1356&bih=582&sxsrf=ADLYWIKePtmmiaXkRB8qyGEMqlIyuULQag%3A1725707512767&ei=-DTcZrexLu2B9u8PqKT12Qo&ved=0ahUKEwi3jaO62bCIAxXtgP0HHShSPasQ4dUDCBE&uact=5&oq=currently+working+and+ready+for+new+jobs+picture&gs_lp=Egxnd3Mtd2l6LXNlcnAiMGN1cnJlbnRseSB3b3JraW5nIGFuZCByZWFkeSBmb3IgbmV3IGpvYnMgcGljdHVyZUi1J1CdAliVIHABeACQAQCYAccCoAHbD6oBBTItNy4xuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfoAg&sclient=gws-wiz-serp#vhid=YzZm4sAL85A3TM&vssid=mosaic/github/Macgyver02)
 
-**Currently working and open to new opportunities! Feel free to reach out if you’re looking for a passionate developer with active coding experience.**
+**Looking for Job Feel free to reach out if you’re looking for a passionate developer with active coding experience.**
 <br>
 
 
@@ -60,10 +60,7 @@ _"The best way to predict the future is to invent it. But, remember that softwar
 
 *“Why do programmers prefer dark mode? Because light attracts bugs!”*
 
-![Dev Meme](https://i.imgur.com/6d18V6b.jpg)
 
-"I’m not a magician, but I can see why you might think so: I make bugs disappear."
----
 
 [![](https://visitcount.itsvg.in/api?id=Macgyver02&icon=0&color=6)](https://visitcount.itsvg.in)
 

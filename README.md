@@ -35,7 +35,9 @@
 [![Macgyver02's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Macgyver02&theme=github)](https://github.com/Macgyver02)
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Macgyver02/langs)](https://githubtrends.io)
 ## 🔝 Top Contributed Repository 🏆 🚀
 
 ### 1. [Next Netlify](https://github.com/Macgyver02/next-netlify)

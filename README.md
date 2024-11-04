@@ -23,6 +23,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&layout=compact&theme=radical)<br>
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Macgyver02/langs)](https://githubtrends.io)<br>
 
+## Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&layout=compact&langs_count=10)
+
 
 ## GitHub Streak 🔥
 

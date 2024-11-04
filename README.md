@@ -20,7 +20,7 @@
 
 ## Most Used Languages 💻
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&layout=compact&langs_count=10&theme=radical)<br>)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&layout=compact&langs_count=10&theme=radical)<br>
 
 
 ## GitHub Streak 🔥
@@ -33,7 +33,7 @@
 
 ## Contributor Status 🚀
 
-[![Macgyver02's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Macgyver02&theme=github)](https://github.com/Macgyver02)
+![GitHub Contributions](https://img.shields.io/badge/contributor-active-blue)
 
 
 ## 🔝 Top Contributed Repository 🏆 🚀

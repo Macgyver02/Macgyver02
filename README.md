@@ -42,18 +42,6 @@
 - **Description:** A Next.js application deployed on Netlify, showcasing modern web development practices.
 - **Contributions:** [Repository Contributions](https://github.com/Macgyver02/next-netlify/graphs/contributors)
 
-## Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
 ## Coding Activity 📈
 
 ![WakaTime](https://www.google.com/search?q=currently+working+and+ready+for+new+jobs+picture&sca_esv=07f2b446eda3f237&sca_upv=1&udm=2&biw=1356&bih=582&sxsrf=ADLYWIKePtmmiaXkRB8qyGEMqlIyuULQag%3A1725707512767&ei=-DTcZrexLu2B9u8PqKT12Qo&ved=0ahUKEwi3jaO62bCIAxXtgP0HHShSPasQ4dUDCBE&uact=5&oq=currently+working+and+ready+for+new+jobs+picture&gs_lp=Egxnd3Mtd2l6LXNlcnAiMGN1cnJlbnRseSB3b3JraW5nIGFuZCByZWFkeSBmb3IgbmV3IGpvYnMgcGljdHVyZUi1J1CdAliVIHABeACQAQCYAccCoAHbD6oBBTItNy4xuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfoAg&sclient=gws-wiz-serp#vhid=YzZm4sAL85A3TM&vssid=mosaic/github/Macgyver02)

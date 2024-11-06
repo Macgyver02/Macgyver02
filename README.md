@@ -19,8 +19,7 @@
 ![Macgyver02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macgyver02&show_icons=true&theme=radical)<br>
 
 ## Most Used Languages 💻
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&layout=compact&langs_count=10&theme=radical)<br>
 
 
 ## GitHub Streak 🔥

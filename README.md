@@ -19,7 +19,7 @@
 ![Macgyver02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macgyver02&show_icons=true&theme=radical)<br>
 
 ## Most Used Languages 💻
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&layout=compact&langs_count=10&theme=radical)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&layout=compact&langs_count=30&theme=radical)<br>
 
 
 ## GitHub Streak 🔥
@@ -37,9 +37,7 @@
 
 ## 🔝 Top Contributed Repository 🏆 🚀
 
-### 1. [Next Netlify](https://github.com/Macgyver02/next-netlify)
-- **Description:** A Next.js application deployed on Netlify, showcasing modern web development practices.
-- **Contributions:** [Repository Contributions](https://github.com/Macgyver02/next-netlify/graphs/contributors)
+![Top contributed repositories](https://github-readme-stats.vercel.app/api?username=Macgyver02&show_icons=true&count_private=true&hide=stars&include_all_commits=true)
 
 ## Coding Activity 📈
 

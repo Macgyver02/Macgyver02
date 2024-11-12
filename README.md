@@ -37,7 +37,7 @@
 
 ## 🔝 Top Contributed Repository 🏆 🚀
 
-![Top contributed repositories](https://github-readme-stats.vercel.app/api?username=Macgyver02&show_icons=true&count_private=true&hide=stars&include_all_commits=true)
+![](https://github-contributor-stats.vercel.app/api?username=Macgyver02&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ## Coding Activity 📈
 

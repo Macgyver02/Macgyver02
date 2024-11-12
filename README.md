@@ -30,14 +30,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Macgyver02&theme=onedark)](https://github.com/Macgyver02)<br>
 
-## Contributor Status 🚀
-
-![GitHub Contributions](https://img.shields.io/badge/contributor-active-blue)
-
 
 ## 🔝 Top Contributed Repository 🏆 🚀
 
-![](https://github-contributor-stats.vercel.app/api?username=Macgyver02&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Macgyver02&limit=5&theme=nightowl&combine_all_yearly_contributions=true)<br>
+
+
+## Contributor Status 🚀
+
+![GitHub Contributions](https://img.shields.io/badge/contributor-active-blue)<br>
+
+
 
 ## Coding Activity 📈
 

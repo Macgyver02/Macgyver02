@@ -24,7 +24,8 @@
 
 ## GitHub Streak 🔥
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Macgyver02&theme=radical)<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Macgyver02&theme=dark&hide_border=true)
+<br>
 
 ## GitHub Trophy 🏆
 

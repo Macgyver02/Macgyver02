@@ -23,8 +23,8 @@
 
 
 ## GitHub Streak 🔥
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Macgyver02&theme=dark&hide_border=true&v=1)<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=Macgyver02&theme=dark&ring=FF0000&fire=FFA500&currStreakLabel=00FF00&background=000000&stroke=FFFFFF&hide_border=true)
+<br>
 
 ## GitHub Trophy 🏆
 

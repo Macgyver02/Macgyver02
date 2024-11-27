@@ -26,6 +26,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Macgyver02&theme=dark&hide_border=true)
 <br>
 
+
 ## GitHub Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Macgyver02&theme=onedark)](https://github.com/Macgyver02)<br>

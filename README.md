@@ -20,12 +20,12 @@
 
 ## Most Used Languages 💻
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macgyver02&layout=compact&langs_count=30&theme=radical)<br>
-
+---
 
 ## GitHub Streak 🔥
 ![GitHub Streak](https://streak-stats.demolab.com?user=Macgyver02&theme=dark&hide_border=true)
 <br>
-
+----
 
 ## GitHub Trophy 🏆
 

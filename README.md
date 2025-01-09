@@ -30,6 +30,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Macgyver02&theme=onedark)](https://github.com/Macgyver02)<br>
 
+---
 
 ## 🔝 Top Contributed Repository 🏆 🚀
 

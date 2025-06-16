@@ -2,12 +2,13 @@
 
 
 
-🚀Upcoming Backend Software developer<br>
+🚀Backend Software developer<br>
 👀 I’m interested in ... programming, problem solving, creating solutions<br>🌱 I’m currently learning ... Software, Web, React, React-native, Nodejs, nextjs , MERN stack<br>💞️ I’m looking to collaborate on java, js, python, React, React-native projects, Nodejs, MERN stack projecs<br>📫 How to reach me max02kioko@gmail.com<br><br>🚀</LetsConnect☕>
 
 <!-- [![An image of @davidmwas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/davidmwas)](https://holopin.io/@davidmwas) -->
 
 ## </Socials>
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]((https://www.twitter.com/meackxieh92085))
 

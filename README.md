@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m @Maxwell Kioko
 
 
-
 🚀Backend Software developer<br>
 
 👀 I’m interested in ... programming, problem solving, creating solutions<br>🌱 I’m currently learning ... Software, Web, React, React-native, Nodejs, nextjs , MERN stack<br>💞️ I’m looking to collaborate on java, js, python, React, React-native projects, Nodejs, MERN stack projecs<br>📫 How to reach me max02kioko@gmail.com<br><br>🚀</LetsConnect☕>

@@ -166,9 +166,7 @@
 <br/>
 <br/>
 
-   
 ## GitHub Stats 📊
-
 ![Macgyver02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macgyver02&show_icons=true&theme=radical)<br>
 
 ## Most Used Languages 💻
